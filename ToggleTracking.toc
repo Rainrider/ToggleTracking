@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Toggle Tracking
+## Author: Rainrider
+## Version: 0.5
+## SavedVariablesPerCharacter: ToggleTrackingDB
+
+core.lua
